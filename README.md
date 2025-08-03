@@ -1,0 +1,2 @@
+# fudan_vpn_for_mac
+解决关机或者休眠之后mac无法连接复旦vpn问题
